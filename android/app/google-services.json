@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306354338165",
+    "project_id": "espkelsindhufstore",
+    "storage_bucket": "espkelsindhufstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306354338165:android:08304bad0beb813afcbb3c",
+        "android_client_info": {
+          "package_name": "com.example.aqua_sense_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRtDNniaR3kuBdzAWwMk0fZY8EqjNimIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

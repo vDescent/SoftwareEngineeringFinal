@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDMUIVdlXfqsTCakFtuSHeciz8zVNAN7cs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>306354338165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aquaSenseMobile</string>
+	<key>PROJECT_ID</key>
+	<string>espkelsindhufstore</string>
+	<key>STORAGE_BUCKET</key>
+	<string>espkelsindhufstore.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:306354338165:ios:5a9c6b4c62c90538fcbb3c</string>
+</dict>
+</plist>
